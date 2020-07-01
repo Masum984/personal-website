@@ -33,17 +33,6 @@ section{
     border-radius: 10px;
     font-weight: bold;
 }
-.single-experience{
-    box-shadow: 10px 10px 10px gray;
-    border-radius: 5px;
-    height: 80%;
-}
-.jamela{
-    color: rgb(241, 122, 11);
-    margin-top: 250px;
-    text-align:left;
-}
-
 .my-works-area{
      margin-top: 150px;
      width: 100%;
@@ -54,7 +43,7 @@ section{
     margin:20px;
     box-shadow: 10px 10px 10px 10px gray;
 }
-.problem{
+.client-area{
     width: 100%;
     background-color: rgb(245, 225, 225);
     text-align: center;
