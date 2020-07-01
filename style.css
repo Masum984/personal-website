@@ -1,6 +1,76 @@
 body{
+    margin:0px;
     font-family: 'Ubuntu', sans-serif;
 }
 h1{
+    font-size:50px;
     font-family: 'Poppins', sans-serif;
+}
+.name-highelight{
+    color: orange;
+}
+.width-half{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    margin-right: 2%;
+}
+.width-half img{
+    width: 100%;
+}
+.top-header{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
+.link-btn{
+    text-decoration: none;
+    padding:10px 20px;
+    color:white;
+    background-color: dodgerblue;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.single-experience{
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 5px;
+    height: 80%;
+}
+.jamela{
+    color: rgb(241, 122, 11);
+    margin-top: 250px;
+    text-align:left;
+}
+
+.my-works-area{
+     margin-top: 150px;
+     width: 100%;
+     background-image: url("images/biography-bg.png");
+}
+.work1{
+    width: 30%;
+    margin:20px;
+    box-shadow: 10px 10px 10px 10px gray;
+}
+.problem{
+    width: 100%;
+    background-color: rgb(245, 225, 225);
+    text-align: center;
+    
+   
+}
+.client{
+    width: 30%;
+    border:1px solid green;
+    float: left;
+    margin: 20px;
+}
+.massege{
+    text-align: center;
+    margin: 300px;
+    background-color: red;
+    padding: 10px;
+    font-size: 30px;
 }
