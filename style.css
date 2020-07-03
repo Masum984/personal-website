@@ -37,6 +37,8 @@ section{
      margin-top: 150px;
      width: 100%;
      background-image: url("images/biography-bg.png");
+     text-align: center;
+     clear: both;
 }
 .work1{
     width: 30%;
@@ -47,6 +49,7 @@ section{
     width: 100%;
     background-color: rgb(245, 225, 225);
     text-align: center;
+    clear: right;
 }
 .client{
     width: 30%;
@@ -55,9 +58,15 @@ section{
     margin: 20px;
 }
 .massege{
+    text-decoration: none;
     text-align: center;
     margin: 300px;
     background-color: red;
     padding: 10px;
     font-size: 30px;
+   
+}
+.massege1{
+    text-decoration: none;
+    background-color: seagreen;
 }
